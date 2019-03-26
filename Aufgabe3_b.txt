@@ -1,0 +1,14 @@
+----------- NACH DEM SORT -------------
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Laufzeit von n^2+n for n=15: 15.272727272727273 Sekunden
+Laufzeit von n^2+n for n=77: 382.2 Sekunden
+Laufzeit von n^2+n for n=123: 970.5818181818182 Sekunden

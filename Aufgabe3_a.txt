@@ -1,0 +1,4 @@
+Nummer 11 wurde in array mit 3 Schritte nicht gefunden!
+Laufzeit von log2(n) for n=15: 8.232638813389768 Sekunden
+Laufzeit von log2(n) for n=77: 13.205435076207372 Sekunden
+Laufzeit von log2(n) for n=123: 14.629335780075785 Sekunden

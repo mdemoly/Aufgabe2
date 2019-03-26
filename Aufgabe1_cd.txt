@@ -1,0 +1,4 @@
+Durchschnittliche Anzahl fuer 5: 1.3056
+Durchschnittliche Anzahl fuer 10: 1.4848834559999997
+Durchschnittliche Anzahl fuer 20: 1.4999085960389982
+Durchschnittliche Anzahl fuer 100: 1.4999999999999998

@@ -1,0 +1,3 @@
+Minimale Anzahl der Schleifendurchlaufe ist 1 und maximale N.
+Minimale Anzahl: {4, 1, 1, 1}
+Maximale Anzahl: {2, 1, 2, 1}
